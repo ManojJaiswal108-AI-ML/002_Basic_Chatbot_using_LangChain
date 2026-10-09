@@ -1,6 +1,6 @@
- - Project
-   -- summarizer_langchain.py  = To understand how the Lang chain is created 
-   -- memory_demo.py           = To understand how memory is created and used
-   -- memory_chat.py           = To understand how to create an actual tiny chatbot
-   -- agent.py                 = To understand how to create an actual tiny chatbot with a Tool call
-   -- app.py                   = An gradio UI for tiny chatbot with a Tool Call
+- <H3>Project</H3>
+ - **summarizer_langchain.py**  = To understand how the Lang chain is created 
+ - **memory_demo.py**           = To understand how memory is created and used
+ - **memory_chat.py**           = To understand how to create an actual tiny chatbot
+ - **agent.py**                 = To understand how to create an actual tiny chatbot with a Tool call
+ - **app.py**                   = An gradio UI for tiny chatbot with a Tool Call
